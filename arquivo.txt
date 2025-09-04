@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git
 ksaksaksaks
 kkkkkk
@@ -7,3 +8,11 @@ kskkkks
 klakslkaks
 
 kasjajsjs
+=======
+kkkkkkkkkkkkk
+kkakskaksas
+lasmams´mas´
+lmasmlamsamsal~
+amlslamsãslãsml
+amslmammsmasmm
+>>>>>>> branch2
