@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 git
 ksaksaksaks
 kkkkkk
@@ -6,13 +6,10 @@ kkkkkkk
 jjjjjappppa
 kskkkks
 klakslkaks
-
-kasjajsjs
-=======
 kkkkkkkkkkkkk
 kkakskaksas
 lasmams´mas´
 lmasmlamsamsal~
 amlslamsãslãsml
 amslmammsmasmm
->>>>>>> branch2
+
